@@ -3,7 +3,7 @@
   "name": "Twitter Code snippet",
   "version": "1.0",
   "description": "Replaces code snippet with code blocks",
-  "permissions": ["activeTab"],
+  "permissions": [],
   "icons": {
     "48": "icons/icon.png"
   },
